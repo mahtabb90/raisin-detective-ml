@@ -1,5 +1,6 @@
 # raisin-detective-ml
 Supervised Machine Learning project using Decision Tree, Random Forest and XGBoost to classify raisin types.
+<<<<<<< HEAD
 # Raisin Detective – Machine Learning Classification Project
 
 ## Overview
@@ -23,6 +24,8 @@ This project was created as part of our Machine Learning course, with focus on:
 
 ---
 
+=======
+>>>>>>> 6c10eaa4aad242571d1faddf7ff47351df220a6a
 ## Team
 
 This project was developed by:
@@ -31,6 +34,7 @@ This project was developed by:
 - Mahtab
 - Spirit
 
+<<<<<<< HEAD
 ---
 
 ## Project Story
@@ -179,3 +183,5 @@ raisin-detective-ml/
 ├── README.md
 └── .gitignore
 
+=======
+>>>>>>> 6c10eaa4aad242571d1faddf7ff47351df220a6a
